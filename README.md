@@ -1,6 +1,8 @@
 # bme-bigdata
 Biomedical engineering - Big Data analytics platforms
 
+This is a text I want to delete later.
+
 ## Setting up a data science environment
 
 Anaconda [Conda cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
